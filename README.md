@@ -1,6 +1,6 @@
 # 🌟 About Me:
 -👋 Hi, I'm Trần Thị Đan Như<br>- 🌱 I’m currently learning Web Developer
-<img align="right" width="400" src="https://camo.githubusercontent.com/df1861cf1bebad29b96d6ec8f9aa99d5719d8d230acafcad60ace0e3ded4259a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31362f36392f65352f31363639653537373631636363363766613565333161303961353437363464302e676966"/>
+<img align="right" width="450" src="https://camo.githubusercontent.com/df1861cf1bebad29b96d6ec8f9aa99d5719d8d230acafcad60ace0e3ded4259a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31362f36392f65352f31363639653537373631636363363766613565333161303961353437363464302e676966"/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/chatter.nhu.1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://discord.com/channels/@me) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCdcHKl4GXNq53fzmLx6SAwQ) 
