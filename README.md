@@ -1,5 +1,5 @@
 # 🌟 About Me:
--👋 Hi, I'm Trần Thị Đan Như<br>- 🌱 I’m currently learning Web Development <br>- 🌈 If you don't give up, you will always have a chance.<br> Giving up is the biggest failure. 
+-👋 Hi, I'm Trần Thị Đan Như<br>- 🌱 I’m currently learning Web Development <br>- 🌈 If you don't give up, you will always have a chance.<br> Giving up is the biggest failure. <br>- 📚 I always spend 2 hours a day for learning things I don't know.
 <img align="right" width="450" src="https://camo.githubusercontent.com/df1861cf1bebad29b96d6ec8f9aa99d5719d8d230acafcad60ace0e3ded4259a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31362f36392f65352f31363639653537373631636363363766613565333161303961353437363464302e676966"/>
 
 ## 🌐 Socials:
